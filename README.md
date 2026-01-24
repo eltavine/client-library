@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 824
+# Client Collection List - Total Clients: 826
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -7,6 +7,7 @@ This repository contains a comprehensive list of various clients. Please note th
 |---------------------|-----------------------------------------------------------|
 | 06dWare             | https://github.com/GentlemanMC/Xulu-06dware             |
 | 1.19 Client         | https://github.com/zopac/1.19-client                    |
+| 198macros | https://github.com/TrilliumSolutions/198macros-v1.4.0 |
 | 303Hack / ThreeZeroThreeHack | https://github.com/MikuSoCute/ThreeZeroThreeHack             |
 | 404 | https://github.com/dada994a/404-leak |
 | 3arthh4ck / Phobos Newbase | https://github.com/3arthqu4ke/3arthh4ck // https://github.com/colorblindness/3arthh4ck |
@@ -115,6 +116,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Catalyst            | https://github.com/GentlemanMC/Catalyst // https://github.com/Pr3roxDLC/Catalyst |
 | CatClient           | https://github.com/CumHax/catclient // https://github.com/Tr0llMode/catclient-cc-bypass |
 | CatClient+ / CatClientPlus / ThighWare | https://github.com/kisman2000/CatClientPlus-aka-ThighWare |
+| Catgirl | https://github.com/toruuDev/catgirlv1 |
 | Catmi               | https://github.com/4wl/Catmi                            |
 | Catmi Rewrite | https://github.com/Lily29371/CatmiRewrite |
 | CatsWare            | https://github.com/CatsAreGood1337/CatsWare             |
@@ -753,7 +755,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Vapid               | https://github.com/starcraft66/vapid                    |
 | Vector              | https://github.com/master7720/vector-0.2.9-leak         |
 | VectorClient | https://github.com/VectorClient/Vector-Releases |
-| Vegaline | https://github.com/WalmartSolutions/VegaLine-00083E // https://github.com/WalmartSolutions/VegaLine-00082E // https://github.com/WalmartSolutions/VegaLine-00078E // https://github.com/WalmartSolutions/VegaLine-00067E // https://github.com/3000IQPlay/VegaLine-00065D-Hotfix |
+| Vegaline | https://github.com/jntdevelopment/vegaline // https://github.com/WalmartSolutions/VegaLine-00083E // https://github.com/WalmartSolutions/VegaLine-00082E // https://github.com/WalmartSolutions/VegaLine-00078E // https://github.com/WalmartSolutions/VegaLine-00067E // https://github.com/3000IQPlay/VegaLine-00065D-Hotfix |
 | Velocity            | https://github.com/The-Gopro336-Archive/Velocity-BUILDABLE_SRC |
 | VenHack             | https://github.com/v0ndy/venhack                        |
 | VenomHack           | https://github.com/2young2care/Venomhack-1.20.1-update // https://github.com/Bohema-developers/VenomHack-leak // https://github.com/rwah277/Venomhack420-Meteor-Plugin   |
